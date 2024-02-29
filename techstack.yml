@@ -2,7 +2,7 @@ repo_name: thanhit1990/dialog
 report_id: 5843af786625c7c068abaec0d930bc46
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:20:43+00:00'
+timestamp: '2024-02-29T19:06:35+00:00'
 requested_by: thanhit1990
 provider: github
 branch: master
@@ -95,7 +95,7 @@ tools:
   last_updated_by: Geng Tan
   last_updated_on: 2021-11-23 16:04:31.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
